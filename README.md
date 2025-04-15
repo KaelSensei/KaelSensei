@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hello, I'm KaelSensei
 
-<!--
-**KaelSensei/KaelSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web2/Web3 Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm an experienced developer specializing in building robust applications across the web2 and web3 ecosystems. With a strong focus on JavaScript, TypeScript, and Solidity, I create seamless frontend experiences and secure blockchain solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**Frontend:**
+- JavaScript/TypeScript
+- React.js
+- Next.js
+- CSS/SCSS/Tailwind
+
+**Backend:**
+- Node.js
+- Express
+- RESTful APIs
+
+**Blockchain & Web3:**
+- Solidity
+- Smart Contract Development
+- Web3.js/Ethers.js ❤️
+- Hardhat
+- Foundry
+
+**Previous Experience:**
+- Java
+- Angular
+
+### 🚀 What I Do
+- Develop responsive and interactive web applications
+- Create and audit smart contracts
+- Build decentralized applications (dApps)
+- Implement blockchain solutions for real-world problems
+- Full-stack development with modern JavaScript frameworks
+
+### 🔗 Connect With Me
+- [X](https://x.com/KaelCc)
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSensei&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+💼 Open for collaboration and freelance opportunities
