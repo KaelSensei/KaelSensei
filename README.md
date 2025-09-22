@@ -16,6 +16,7 @@ I'm an experienced developer specializing in building robust applications across
 - Node.js
 - Express
 - RESTful APIs
+- Python
 
 **Blockchain & Web3:**
 - Solidity
