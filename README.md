@@ -35,13 +35,6 @@ Currently spending most of my time **writing Python**.
 - Backend services & APIs
 - Web3 infrastructure tools
 
-I value **clarity, reliability, and real-world usefulness** over hype.
-
----
-
-## 📊 GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSensei&layout=compact&theme=transparent)
-
 ---
 
 ## 🛠 Currently exploring
