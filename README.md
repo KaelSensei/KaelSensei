@@ -1,48 +1,55 @@
-# 👋 Hello, I'm KaelSensei
+## 👋 Hey, I’m KaelSensei
 
-## Web2/Web3 Full-Stack Developer
+**Python-focused Software Engineer**  
+I build automation, backend systems, and data-driven tools — with strong experience in web and Web3 environments.
 
-I'm an experienced developer specializing in building robust applications across the web2 and web3 ecosystems. With a strong focus on JavaScript, TypeScript, and Solidity, I create seamless frontend experiences and secure blockchain solutions.
-
-### 💻 Tech Stack
-
-**Frontend:**
-- JavaScript/TypeScript
-- React.js
-- Next.js
-- CSS/SCSS/Tailwind
-
-**Backend:**
-- Node.js
-- Express
-- RESTful APIs
-- Python
-
-**Blockchain & Web3:**
-- Solidity
-- Smart Contract Development
-- Web3.js/Ethers.js ❤️
-- Hardhat
-- Foundry
-
-**Previous Experience:**
-- Java
-- Angular
-
-### 🚀 What I Do
-- Develop responsive and interactive web applications
-- Create and audit smart contracts
-- Build decentralized applications (dApps)
-- Implement blockchain solutions for real-world problems
-- Full-stack development with modern JavaScript frameworks
-
-### 🔗 Connect With Me
-- [X](https://x.com/KaelCc)
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSensei&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Currently spending most of my time **writing Python**.
 
 ---
 
-💼 Open for collaboration and freelance opportunities
+## 🐍 Core Focus
+
+### Python Engineering
+- Automation & scripting
+- Data processing & scraping
+- APIs & backend services
+- Bots, monitoring & tooling
+
+### Backend & Systems
+- REST APIs
+- Node.js (when needed)
+- Clean architecture & maintainable code
+
+### Web & Web3 (supporting skills)
+- JavaScript / TypeScript
+- React / Next.js
+- Solidity, Ethers.js
+- dApp integrations & on-chain tooling
+
+---
+
+## 🚀 What I work on
+- Python automation & tooling
+- Data pipelines & scrapers
+- Trading / monitoring bots
+- Backend services & APIs
+- Web3 infrastructure tools
+
+I value **clarity, reliability, and real-world usefulness** over hype.
+
+---
+
+## 📊 GitHub Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSensei&layout=compact&theme=transparent)
+
+---
+
+## 🛠 Currently exploring
+- Advanced Python patterns
+- Performance & async workflows
+- System design & automation at scale
+
+---
+
+## 🤝 Let’s connect
+- 🐦 X: [[KaelCc](https://x.com/KaelCc)]
