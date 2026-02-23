@@ -1,9 +1,8 @@
 ## 👋 Hey, I’m KaelSensei
 
-**Python-focused Software Engineer**  
+**TS/Python/Solitidy-focused Software Engineer**  
 I build automation, backend systems, and data-driven tools — with strong experience in web and Web3 environments.
 
-Currently spending most of my time **writing Python**.
 
 ---
 
