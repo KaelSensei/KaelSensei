@@ -24,6 +24,7 @@ I build automation, backend systems, and data-driven tools — with strong exper
 - React / Next.js
 - Solidity, Ethers.js
 - dApp integrations & on-chain tooling
+- Mobile App
 
 ---
 
